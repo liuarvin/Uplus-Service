@@ -1,0 +1,37 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.uplus",
+      "nativeLanguage": "en"
+    },
+    "jhipsterVersion": "5.3.4",
+    "applicationType": "monolith",
+    "baseName": "uplus",
+    "packageName": "com.uplus",
+    "packageFolder": "com/uplus",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": "spring-websocket",
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "postgresql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "gradle",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "MTUxODYyYTBlMTYyZDdmMzBhOGUxM2QwZmU4YTczNmM2MDdjODA5NGZlYmU5NDA0YzY5YzYwMzc3Zjg3ZjU5OTIyOGY2ODgxMjg2MzZjOTk2ZTNiZWYxOTNlM2FkOWE2NWMxMjZhNDZmNDM4MzFiNTI1MDc4MWExNDBjYTBiMjg=",
+    "enableTranslation": true,
+    "languages": [
+      "en",
+      "zh-cn"
+    ],
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "clientPackageManager": "npm",
+    "nativeLanguage": "en",
+    "skipClient": true
+  }
+}
