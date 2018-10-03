@@ -142,3 +142,29 @@ Desktop.ini
 # ESLint
 ######################
 .eslintcache
+.clover/coverage.dbk8ju5c_jmsjff6q
+.clover/coverage.dbk8ju5c_jmsjfzgg
+
+### macOS template
+# General
+.AppleDouble
+.LSOverride
+
+# Icon must end with two \r
+Icon
+
+# Files that might appear in the root of a volume
+.DocumentRevisions-V100
+.fseventsd
+.TemporaryItems
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+
+# Directories potentially created on remote AFP share
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+
+
